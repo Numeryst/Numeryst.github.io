@@ -85,4 +85,4 @@ security:
 sitemap:
   _merge: deep
 minify:
-  disableXML: true
+  _merge: deep
