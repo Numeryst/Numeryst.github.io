@@ -4,7 +4,7 @@
 
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-{{ range .Data.Pages }}{{ if ne .Params.sitemap_exclude true }} {{ if and (not (strings.Contains .RelPermalink "/tags/")) (not (strings.Contains .RelPermalink "/categories/")) }}
+  {{ range .Data.Pages }}{{ if ne .Params.sitemap_exclude true }} {{ if not (or (strings.Contains .RelPermalink "/tag") (strings.Contains .RelPermalink "/categories")) }}
 
   <url>
 
