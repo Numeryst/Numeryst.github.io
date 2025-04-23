@@ -25,7 +25,7 @@ organizations:
     url: https://Numeryst.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in Mathematics, Programming, and Music
+bio: I am interested in Mathematics, Programming, and Deep Learning
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
