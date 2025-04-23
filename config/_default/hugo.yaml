@@ -85,4 +85,7 @@ security:
 sitemap:
   _merge: deep
 minify:
-  _merge: deep
+  disableXML: true
+  tdewolff:
+    xml:
+      keepWhitespace: true
