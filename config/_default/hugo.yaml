@@ -57,7 +57,6 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
 disableAliases: true
-# disableKinds: ["taxonomy", "taxonomyTerm"]
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
