@@ -4,7 +4,7 @@
 
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-{{ range .Data.Pages }}{{ if ne .Params.sitemap_exclude true }}
+{{ range .Data.Pages }}{{ if ne .Params.sitemap_exclude true }} {{ if not  (strings.Contains .RelPermalink "/tags") }}
 
   <url>
 
@@ -39,5 +39,6 @@
   </url>
 
   {{ end }}
+{{ end }}
 {{ end }}
 </urlset>
