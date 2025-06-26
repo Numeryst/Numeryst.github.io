@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /posts/
+Disallow: /categories/
+Disallow: /*?*category=
+Disallow: /tags/
+Disallow: /archives/
+Disallow: /author/
+Disallow: /page/
+Disallow: /search/
+Disallow: /?*
+Disallow: /*?*
+Disallow: /*/feed/
+Disallow: /*/amp/
+
+Sitemap: https://numeryst.com/sitemap.xml
