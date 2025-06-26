@@ -4,14 +4,14 @@
     "href": "posts/youtube-journey/index.html",
     "title": "Youtube Journey",
     "section": "",
-    "text": "I want to talk a little bit about my journey as a Youtuber. I started my programming channel two years ago. First I started posting some videos (mostly tutorial style)."
+    "text": "Intro\nI want to talk a little bit about my journey as a Youtuber. I started my programming channel two years ago. First I started posting some videos (mostly tutorial style).\n\n\n\nYoutube impressions\n\n\nAs you see above, 21 oct my impressions decreased to half of what was previously dedicated to my channel."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Making objects from noise",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nYoutube Journey\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\nNumeryst\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nNumeryst\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nYoutube Journey\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 26, 2025\n\n\nNumeryst\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nNumeryst\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is my first blog post.\n\nStill experimenting with the new features!"
+    "text": "This is my first blog post.\n\nStill experimenting with the new features!\nprint(\"Hello Folks!\")\nThe Pythagorean theorem states \\(a^2 + b^2 = c^2\\) for right triangles.\n\\[\n\\frac{\\partial f}{\\partial x} = \\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}\n\\]\n\nIf \\(f\\) is continuous on \\([a,b]\\) and differentiable on \\((a,b)\\), then there exists \\(c \\in (a,b)\\) such that:\n\\[ f'(c) = \\frac{f(b) - f(a)}{b - a} \\]\n\n\\[\\begin{align}\n(a+b)^2 &= a^2 + 2ab + b^2 \\\\\n(a-b)^2 &= a^2 - 2ab + b^2\n\\end{align}\\]\nBlack-Scholes (Equation 1) is a mathematical model that seeks to explain the behavior of financial derivatives, most commonly options:\n\\[\n\\frac{\\partial \\mathrm C}{ \\partial \\mathrm t } + \\frac{1}{2}\\sigma^{2} \\mathrm S^{2}\n\\frac{\\partial^{2} \\mathrm C}{\\partial \\mathrm S^2}\n  + \\mathrm r \\mathrm S \\frac{\\partial \\mathrm C}{\\partial \\mathrm S}\\ =\n  \\mathrm r \\mathrm C\n\\tag{1}\\]"
   }
 ]
