@@ -1,30 +1,93 @@
 [
   {
-    "objectID": "posts/youtube-journey/index.html",
-    "href": "posts/youtube-journey/index.html",
-    "title": "Youtube Journey",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "Intro\nI want to talk a little bit about my journey as a Youtuber. I started my programming channel two years ago. First I started posting some videos (mostly tutorial style).\n\n\n\nYoutube impressions\n\n\nAs you see above, 21 oct my impressions decreased to half of what was previously dedicated to my channel."
+    "text": "Introduction\nThis is my first blog post.\n\nStill experimenting with the new features!\nprint(\"Hello Folks!\")\nThe Pythagorean theorem states \\(a^2 + b^2 = c^2\\) for right triangles.\n\\[\n\\frac{\\partial f}{\\partial x} = \\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}\n\\]\n\nIf \\(f\\) is continuous on \\([a,b]\\) and differentiable on \\((a,b)\\), then there exists \\(c \\in (a,b)\\) such that:\n\\[ f'(c) = \\frac{f(b) - f(a)}{b - a} \\]\n\n\\[\\begin{align}\n(a+b)^2 &= a^2 + 2ab + b^2 \\\\\n(a-b)^2 &= a^2 - 2ab + b^2\n\\end{align}\\]\nBlack-Scholes (Equation 1) is a mathematical model that seeks to explain the behavior of financial derivatives, most commonly options:\n\\[\n\\frac{\\partial \\mathrm C}{ \\partial \\mathrm t } + \\frac{1}{2}\\sigma^{2} \\mathrm S^{2}\n\\frac{\\partial^{2} \\mathrm C}{\\partial \\mathrm S^2}\n  + \\mathrm r \\mathrm S \\frac{\\partial \\mathrm C}{\\partial \\mathrm S}\\ =\n  \\mathrm r \\mathrm C\n\\tag{1}\\]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Making objects from noise",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nYoutube Journey\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 26, 2025\n\n\nNumeryst\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nNumeryst\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nFrom For Loops to Frustration: Building a Scientific Programming Channel on YouTube\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 26, 2025\n\n\nNumeryst\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nNumeryst\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I make YouTube videos about all things computational science, from algorithms to simulations and everything in between!"
+    "text": "I make YouTube videos about all things computational science, from algorithms to simulations and everything in between!\n\n💰 Support the channel with crypto\n🔹 Bitcoin (BTC): bc1qk9hrqpkktgygw88u6rjrgcr2gz8drm2sd36d9t\n🔹 Ethereum (ETH): 0x51074C5cc65f98cAa95120053393BeA2977A65CA\n🔹 Tether (USDT):\nTether on ERC-20 (Ethereum): 0x51074C5cc65f98cAa95120053393BeA2977A65CA\nTether on TRC-20 (Tron): TBqnc7ymTTCuWwbJRLBHDi7Lc25UK1RyZF\nTether on BNB Smart Chain (BEP-20): 0x51074C5cc65f98cAa95120053393BeA2977A65CA\n⚠️ Please double-check the network before sending to avoid lost funds!"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/from-for-loops-to-frustration/index.html",
+    "href": "posts/from-for-loops-to-frustration/index.html",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
     "section": "",
-    "text": "This is my first blog post.\n\nStill experimenting with the new features!\nprint(\"Hello Folks!\")\nThe Pythagorean theorem states \\(a^2 + b^2 = c^2\\) for right triangles.\n\\[\n\\frac{\\partial f}{\\partial x} = \\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}\n\\]\n\nIf \\(f\\) is continuous on \\([a,b]\\) and differentiable on \\((a,b)\\), then there exists \\(c \\in (a,b)\\) such that:\n\\[ f'(c) = \\frac{f(b) - f(a)}{b - a} \\]\n\n\\[\\begin{align}\n(a+b)^2 &= a^2 + 2ab + b^2 \\\\\n(a-b)^2 &= a^2 - 2ab + b^2\n\\end{align}\\]\nBlack-Scholes (Equation 1) is a mathematical model that seeks to explain the behavior of financial derivatives, most commonly options:\n\\[\n\\frac{\\partial \\mathrm C}{ \\partial \\mathrm t } + \\frac{1}{2}\\sigma^{2} \\mathrm S^{2}\n\\frac{\\partial^{2} \\mathrm C}{\\partial \\mathrm S^2}\n  + \\mathrm r \\mathrm S \\frac{\\partial \\mathrm C}{\\partial \\mathrm S}\\ =\n  \\mathrm r \\mathrm C\n\\tag{1}\\]"
+    "text": "In this post, I’ll share my YouTube journey, the thoughts behind it, and what lies ahead."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#the-vision-tech-content-for-the-curious",
+    "href": "posts/from-for-loops-to-frustration/index.html#the-vision-tech-content-for-the-curious",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "The Vision: Tech Content for the Curious",
+    "text": "The Vision: Tech Content for the Curious\nMy goal was simple: to build a small corner of the internet where curious minds could explore computational science and programming in depth. I didn’t want to chase trends, I wanted to create content that taught, that explained, that experimented.\nPython tutorials. Julia benchmarks. Mojo’s wild potential. My channel became a personal lab, and an open notebook.\nI’ve always been my own toughest critic, so I don’t think I’ve ever published a video that fully meets the standards I imagine. Still, I knew I had to keep creating to improve. There are plenty of topics I haven’t covered yet, even though they’ve been on my mind for a long time. Maybe it’s because I’m either too lazy or too much of a perfectionist when it comes to really good ideas and topics."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#when-smart-audiences-make-content-harder",
+    "href": "posts/from-for-loops-to-frustration/index.html#when-smart-audiences-make-content-harder",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "When Smart Audiences Make Content Harder",
+    "text": "When Smart Audiences Make Content Harder\nSome of my early videos on the Julia programming language went viral on YouTube, which brought in a lot of subscribers interested in similar content. But here’s the thing about people who follow scientific programming, they’re incredibly smart. We’re talking about PhD students, university professors, or seasoned professionals in the tech industry. These aren’t casual viewers you can retain just by posting regularly. Their expectations are high, and they already know a lot, so it takes real depth and value to keep them engaged.\n\nWhy Getting Monetized is Important\nEarning money allows you to keep doing what you love, creating content around scientific programming. But if it doesn’t generate enough income, reality kicks in, and you’re forced to shift your time toward something more financially sustainable. In a niche with a small, highly intelligent audience, you often have to invest significantly more time and effort into producing complex content, only to earn far less than creators in broader, more popular niches on YouTube."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#the-growth-a-slow-steady-climb",
+    "href": "posts/from-for-loops-to-frustration/index.html#the-growth-a-slow-steady-climb",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "The Growth: A Slow, Steady Climb",
+    "text": "The Growth: A Slow, Steady Climb\nI won’t lie, starting a YouTube channel is a slow grind, especially in a niche like computational science. I celebrated my first 100 subscribers like I’d won a Nobel Prize. I saw some growth from tutorials and coding deep dives, and even got great comments from viewers who found the content genuinely helpful.\nBut while subscriber numbers were growing slowly, watch hours became the bottleneck. After two years, I’m still stuck at around 3,000 watch hours, well below the 4,000 required for monetization.\n\n\n\nStuck at 3K Watch Hours, and It’s Been a Full Year"
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#the-algorithm-shift-when-shorts-got-loud",
+    "href": "posts/from-for-loops-to-frustration/index.html#the-algorithm-shift-when-shorts-got-loud",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "The Algorithm Shift: When Shorts Got Loud",
+    "text": "The Algorithm Shift: When Shorts Got Loud\nThen came the YouTube Shorts update, and things took a strange turn.\n\n\n\nOctober 21st YouTube Update: A Disaster for Impressions\n\n\nOvernight, my daily impressions were cut in half. The momentum I had built up through long-form educational content hit a wall. YouTube’s focus had clearly shifted: Shorts were getting the spotlight, and deep-dive videos like mine were left behind in the algorithmic shadow.\nI put out a few more videos, but even my top-performing ones weren’t getting any views anymore! The engagement wasn’t the same. My audience came for depth, not speed. And it turns out, that’s a tough sell in a platform now optimized for swipeable soundbites."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#reaching-more-viewers",
+    "href": "posts/from-for-loops-to-frustration/index.html#reaching-more-viewers",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "Reaching More Viewers",
+    "text": "Reaching More Viewers\nI’ll be honest with you, I’m fully capable of creating videos on complex topics in programming and mathematics. But there’s a real issue. YouTube’s algorithm just doesn’t seem to favor content even remotely close to my niche, and I honestly don’t know why. So after spending hours crafting detailed scripts, designing slides, and doing heavy editing, the final video ends up with barely 200 views. It’s disheartening, to say the least.\nI know it might sound like I’m fixated on view counts, but let’s be honest, everyone wants their videos to be seen by more people, and I’m no exception. I’m fully aware that the videos I’ve made aren’t necessarily groundbreaking or impossible for others to create. Still, each one takes a lot of time and energy to produce, and that effort makes it tough when they go mostly unnoticed."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#lessons-they-dont-tell-you",
+    "href": "posts/from-for-loops-to-frustration/index.html#lessons-they-dont-tell-you",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "Lessons They Don’t Tell You",
+    "text": "Lessons They Don’t Tell You\nIronically, the videos that go viral1 on your channel can end up hurting it in the long run. Why? Because the more views a video gets, the more subscribers you gain, but there’s a catch. Most of those new subscribers came for that one specific topic. So when you publish your next video, chances are they’re not interested. They don’t watch, like, or engage with it, and that lack of interaction signals to the algorithm that your content isn’t worth pushing, effectively killing the video right out of the gate. This experience has been humbling, but also deeply educational. Here’s what I’ve learned:\n\nYou can grow a channel fairly easily within a niche. But if the audience size is small, there’s a good chance you’ll never get monetized or earn a sustainable income from it.\nYouTube rewards quantity, not necessarily quality. A 20-minute, carefully crafted tutorial might get outranked by a 15-second meme.\nDiscoverability in niche topics is hard. Even good content needs luck or algorithmic blessings (Whatever that means!) to surface.\nThe grind is real. Scriptwriting, editing, thumbnails, SEO, comments, it’s a full-time job without the pay (yet).\nBut consistency builds skill. I’m a better communicator, editor, and teacher now than I was two years ago."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#so-whats-next",
+    "href": "posts/from-for-loops-to-frustration/index.html#so-whats-next",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "So What’s Next?",
+    "text": "So What’s Next?\nAm I giving up? Absolutely not.\nI’m still fascinated by Mojo, still exploring Julia’s quirks, and still committed to demystifying complex topics. But I’m also being more strategic:\n\nExperimenting with hybrid content, video topics that lead into long-form deep dives.\nIncreasing upload frequency, that’s easier said than done. It is hard to increase upload frequency and publish quality content at the same time.\nPosting across platforms to diversify reach (This one is hard, I don’t have followers on other platforms!).\nEngaging more directly with my community through comments, polls, and behind-the-scenes updates (I should work on this one)."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#redefining-success",
+    "href": "posts/from-for-loops-to-frustration/index.html#redefining-success",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "Redefining Success",
+    "text": "Redefining Success\nSure, I haven’t been monetized, yet. But here’s the thing: I’ve received messages from students who used my tutorials to pass their exams. From developers who got curious about Julia or Mojo because of my videos. That means something.\nIn a world chasing views and virality, creating value is its own kind of success.\n\nTo other niche tech creators out there: if you’re feeling invisible, know you’re not alone. Keep going. Keep learning. Keep sharing.\nIf this post resonates with you, or if you’ve gone through a similar journey, I’d love to hear your story, or better yet, let’s collaborate on something meaningful."
+  },
+  {
+    "objectID": "posts/from-for-loops-to-frustration/index.html#footnotes",
+    "href": "posts/from-for-loops-to-frustration/index.html#footnotes",
+    "title": "From For Loops to Frustration: Building a Scientific Programming Channel on YouTube",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFor instance, What is Differentiable Programming and The Best Package to Plot in Julia↩︎"
   }
 ]
